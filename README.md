@@ -1,2 +1,4 @@
-# my-portfolio
-This is my professional Protfolio
+# Robert Metzler's portfolio
+
+This is my Professional portfolio . It uses AWS and ReactJS.
+This is the start of my Journey in serverless.
