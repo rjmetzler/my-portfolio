@@ -5,5 +5,6 @@ This is the start of my Journey in serverless.
 
 # Technologies used
 
+Brew
 Git and Github
 SSH
