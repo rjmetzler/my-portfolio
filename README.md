@@ -8,3 +8,6 @@ This is the start of my Journey in serverless.
 Brew
 Git and Github
 SSH
+htmlCSS
+Font awesome
+Goolge Fonts
