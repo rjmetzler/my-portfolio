@@ -9,6 +9,5 @@ artifacts:
     - index.html
     - favicon.ico
     - Robert_Metzler_Resume_AWS_10312018.pdf
-    -styles/main.css
+    - styles/main.css
     - images/*
-    
